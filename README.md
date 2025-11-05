@@ -32,7 +32,7 @@ ong-platform/
 1. Faça push da branch `main`
 2. No GitHub, Settings → Pages → **Deploy from branch**
 3. Selecione `main`, pasta `/root`
-4. A URL pública ficará: `https://seu-usuario.github.io/ong-a-familia-e-tudo`
+4. A URL pública ficará: `[https://seu-usuario.github.io/ong-a-familia-e-tudo](https://github.com/othiagoverso)`
 
  Git e versionamento
 ```bash
