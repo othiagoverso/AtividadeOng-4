@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="240" height="48" viewBox="0 0 240 48">
+  <g fill="none">
+    <g transform="translate(6,6)">
+      <path d="M20 22c6-4 10-7 10-12a6 6 0 0 0-11-3 6 6 0 0 0-11 3c0 5 4 8 10 12z" fill="#6b2d2c"/>
+      <circle cx="9" cy="6" r="2" fill="#222"/>
+      <circle cx="21" cy="6" r="2" fill="#222"/>
+    </g>
+    <text x="54" y="30" font-family="Georgia, 'Times New Roman', serif" font-size="18" fill="#222" letter-spacing="0.3">
+      ONG A FAMÍLIA É TUDO
+    </text>
+  </g>
+</svg>
